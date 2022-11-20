@@ -1,0 +1,43 @@
+body {
+    background-color: lime;
+}
+#show_sketch {
+    float: right;
+}
+#heading {
+background-color:bisque;
+color: black;
+font-weight: bolder;
+font-family: 'Rubik Bubbles', cursive;;
+}
+#label {
+    font-weight: bold;
+    color: black;
+    font-size: larger;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#confidence {
+    font-weight: bold;
+    color: black;
+    font-size: larger;
+    font-family: 'Josefin Sans', sans-serif;
+}
+canvas {
+    border: 10px dotted black;
+    border-radius: 20px;
+    
+}
+#score {
+float: left;
+font-family: 'Josefin Sans', sans-serif;
+}
+#timer {
+float: right;
+font-family: 'Josefin Sans', sans-serif;
+}
+#draw_this {
+    font-weight: bold;
+    color: black;
+    font-size: larger;
+    font-family: 'Josefin Sans', sans-serif;
+}
